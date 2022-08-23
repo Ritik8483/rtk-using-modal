@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "sds  12 cxz cdc",
+      "email": "dfd@gmail.com",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "mnbv",
+      "email": "plokl@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "mklop",
+      "email": "mjklop@gmail.com"
+    },
+    {
+      "name": "kush",
+      "email": "hujki",
+      "id": 4
+    }
+  ]
+}
